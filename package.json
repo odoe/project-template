@@ -16,8 +16,6 @@
     "gulp-concat": "~2.3.4"
   },
   "dependencies": {
-    "leaflet": "~0.7.3",
-    "esri-leaflet": "0.0.1-beta.5",
     "rx": "~2.3.4"
   }
 }
